@@ -6776,7 +6776,7 @@
     {
       "chain_name": "divine",
       "base_denom": "uDRC",
-      "path": "transfer/channel-108909/uDRC",
+      "path": "transfer/channel-109096/uDRC",
       "osmosis_verified": false,
       "_comment": "Divine $DRC"
     },
